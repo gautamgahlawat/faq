@@ -24,3 +24,6 @@ iron:router
 zurb:foundation-sites
 ewall:foundation
 aldeed:collection2
+npm-bcrypt@0.8.7
+houston:admin
+session
